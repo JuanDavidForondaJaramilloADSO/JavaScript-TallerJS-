@@ -1,0 +1,34 @@
+{
+  "personas": [
+    {
+      "nombre": "Juan",
+      "edad": 30,
+      "ciudad": "Ciudad A",
+      "profesion": "Ingeniero"
+    },
+    {
+      "nombre": "María",
+      "edad": 25,
+      "ciudad": "Ciudad B",
+      "profesion": "Doctora"
+    },
+    {
+      "nombre": "Pedro",
+      "edad": 35,
+      "ciudad": "Ciudad C",
+      "profesion": "Abogado"
+    },
+    {
+      "nombre": "Luisa",
+      "edad": 28,
+      "ciudad": "Ciudad A",
+      "profesion": "Arquitecta"
+    },
+    {
+      "nombre": "Andrés",
+      "edad": 40,
+      "ciudad": "Ciudad D",
+      "profesion": "Contador"
+    }
+  ]
+}
